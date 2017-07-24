@@ -1,0 +1,10 @@
+# docker-ruby-node: Docker Compose
+# https://docs.docker.com/compose/
+#
+# Usage: docker-compose up
+version: '3'
+services:
+  docker:
+    restart: always
+    build: .
+    image: python:3.6.1
