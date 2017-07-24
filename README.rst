@@ -1,9 +1,19 @@
 docker-ruby-node
 ==============================
 
-docker for ruby and node
 
 |Code Climate| |GitHub issues| |GitHub forks| |GitHub stars| |Issue Count| |license| |Test Coverage|
+
+:Version: 0.0.1
+:Web: https://github.com/labpositiva/docker-ruby-node
+:Download: https://github.com/labpositiva/docker-ruby-node
+:Source: https://github.com/labpositiva/docker-ruby-node
+:Keywords: ruby node docker
+
+docker for ruby and node
+
+.. contents:: Table of Contents:
+    :local:
 
 Requirements
 ------------
